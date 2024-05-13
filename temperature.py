@@ -7,7 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1avZkAj2RUyzPT5mpmXKOWK9fNVhkeSoW
 """
 
-!pip install boto3
 
 import boto3
 import json
